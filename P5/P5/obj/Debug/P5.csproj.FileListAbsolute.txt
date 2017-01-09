@@ -1,0 +1,6 @@
+D:\Anul 2\guacamole\P5\P5\bin\Debug\P5.exe.config
+D:\Anul 2\guacamole\P5\P5\bin\Debug\P5.exe
+D:\Anul 2\guacamole\P5\P5\bin\Debug\P5.pdb
+D:\Anul 2\guacamole\P5\P5\obj\Debug\P5.csprojResolveAssemblyReference.cache
+D:\Anul 2\guacamole\P5\P5\obj\Debug\P5.exe
+D:\Anul 2\guacamole\P5\P5\obj\Debug\P5.pdb

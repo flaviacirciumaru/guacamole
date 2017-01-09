@@ -1,0 +1,5 @@
+D:\Anul 2\guacamole\P6\P6\bin\Debug\P6.exe.config
+D:\Anul 2\guacamole\P6\P6\bin\Debug\P6.exe
+D:\Anul 2\guacamole\P6\P6\bin\Debug\P6.pdb
+D:\Anul 2\guacamole\P6\P6\obj\Debug\P6.exe
+D:\Anul 2\guacamole\P6\P6\obj\Debug\P6.pdb

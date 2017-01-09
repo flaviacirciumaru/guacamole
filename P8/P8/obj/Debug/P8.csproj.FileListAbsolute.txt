@@ -1,0 +1,6 @@
+D:\Anul 2\guacamole\P8\P8\bin\Debug\P8.exe.config
+D:\Anul 2\guacamole\P8\P8\bin\Debug\P8.exe
+D:\Anul 2\guacamole\P8\P8\bin\Debug\P8.pdb
+D:\Anul 2\guacamole\P8\P8\obj\Debug\P8.csprojResolveAssemblyReference.cache
+D:\Anul 2\guacamole\P8\P8\obj\Debug\P8.exe
+D:\Anul 2\guacamole\P8\P8\obj\Debug\P8.pdb

@@ -1,0 +1,6 @@
+D:\Anul 2\guacamole\P7\P7\bin\Debug\P7.exe.config
+D:\Anul 2\guacamole\P7\P7\obj\Debug\P7.csprojResolveAssemblyReference.cache
+D:\Anul 2\guacamole\P7\P7\bin\Debug\P7.exe
+D:\Anul 2\guacamole\P7\P7\bin\Debug\P7.pdb
+D:\Anul 2\guacamole\P7\P7\obj\Debug\P7.exe
+D:\Anul 2\guacamole\P7\P7\obj\Debug\P7.pdb
