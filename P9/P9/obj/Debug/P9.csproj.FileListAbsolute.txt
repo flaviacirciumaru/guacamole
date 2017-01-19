@@ -1,0 +1,6 @@
+D:\Anul 2\guacamole\P9\P9\bin\Debug\P9.exe.config
+D:\Anul 2\guacamole\P9\P9\obj\Debug\P9.csprojResolveAssemblyReference.cache
+D:\Anul 2\guacamole\P9\P9\bin\Debug\P9.exe
+D:\Anul 2\guacamole\P9\P9\bin\Debug\P9.pdb
+D:\Anul 2\guacamole\P9\P9\obj\Debug\P9.exe
+D:\Anul 2\guacamole\P9\P9\obj\Debug\P9.pdb
